@@ -1,1 +1,6 @@
 Styles/
+assets/
+*.svg
+*.jpg
+*.png
+*.jpeg
